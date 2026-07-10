@@ -1,2 +1,3 @@
-# **mirror of [gitlab](https://gitlab.com/theokrueger) page**
-https://gitlab.com/theokrueger
+[theokrueger.dev](https://theokrueger.dev)
+
+*nix user, button box enthusiast.
