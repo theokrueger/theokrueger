@@ -1,5 +1,3 @@
-# [theokrueger.dev](https://theokrueger.dev)
-
 *nix user, button box enthusiast.
 
-[portfolio](https://theokrueger.dev/portfolio)
+[theokrueger.dev/card](https://theokrueger.dev/card)
