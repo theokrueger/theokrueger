@@ -1,3 +1,3 @@
-*nix user, button box enthusiast.
+button box enthusiast
 
 [theokrueger.dev/card](https://theokrueger.dev/card)
